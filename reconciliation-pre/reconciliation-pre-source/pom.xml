@@ -4,14 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.payment</groupId>
-        <artifactId>reconciliation</artifactId>
+        <artifactId>reconciliation-pre</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>reconciliation-pre</artifactId>
+    <artifactId>reconciliation-pre-source</artifactId>
     <version>${project.parent.version}</version>
-    <name>reconciliation-pre</name>
-    <description>reconciliation-pre</description>
-    <packaging>pom</packaging>
+    <name>reconciliation-pre-source</name>
+    <description>reconciliation-pre-source</description>
 
     <dependencies>
         <dependency>
@@ -25,5 +24,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
 
 </project>

@@ -1,5 +1,16 @@
 # 对账应用
 
-## Getting Started
 
-### Reference Documentation
+## reconciliation-pre 模块
+
+数据来源
+
+> 用于数据前置处理
+ 
+1. 数据拉取
+2. 数据推送
+3. 文件上传
+
+
+
+
